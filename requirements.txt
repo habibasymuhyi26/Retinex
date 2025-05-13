@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+numpy
+matplotlib
+scikit-image
+brisque
+pyiqa
+torch
+torchvision
+Pillow
+torch cog numpy
+thop
+git clone https://github.com/cszn/SCUNet.git
+python3 SCUNet/main_download_pretrained_models.py --models "SCUNet" --model_dir "model_zoo"
