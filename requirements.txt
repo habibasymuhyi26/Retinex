@@ -10,3 +10,4 @@ torchvision
 Pillow
 torch cog numpy
 thop
+pip
