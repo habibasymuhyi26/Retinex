@@ -8,6 +8,8 @@ pyiqa
 torch
 torchvision
 Pillow
-torch cog numpy
+torch 
+cog 
+numpy
 thop
 pip
